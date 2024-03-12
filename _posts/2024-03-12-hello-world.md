@@ -3,11 +3,11 @@ layout: post
 title: Hello World!
 date: 2024-03-12 01:04 -0700
 categories: [Social, Blog]
+coverImage: "/assets/images/hello_world.png"
 author: Mattiwos
-coverImage: "../../assets/images/hello_world.png"
 ---
 
-![](../../assets/images/hello_world.png)
+![](/assets/images/hello_world.png)
 
 ### ***Hello World***
 This is my second attempt at creating a blog. The first one didn't display posts which was annoying however hopefully this worked. 
